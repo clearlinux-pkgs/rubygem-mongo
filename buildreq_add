@@ -1,0 +1,30 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-activesupport
+rubygem-bson
+rubygem-coveralls
+rubygem-docile
+rubygem-domain_name
+rubygem-http-cookie
+rubygem-i18n
+rubygem-metaclass
+rubygem-mime-types
+rubygem-minitest
+rubygem-mocha
+rubygem-netrc
+rubygem-rdoc
+rubygem-rest-client
+rubygem-shoulda
+rubygem-shoulda-context
+rubygem-shoulda-matchers
+rubygem-simplecov
+rubygem-simplecov-html
+rubygem-term-ansicolor
+rubygem-test-unit
+rubygem-thor
+rubygem-thread_safe
+rubygem-tins
+rubygem-tzinfo
+rubygem-unf
+rubygem-unf_ext

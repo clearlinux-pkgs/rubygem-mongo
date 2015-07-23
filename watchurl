@@ -1,0 +1,3 @@
+# rubygem-plucky requires version (~> 1.5 ) //old package
+# check: https://rubygems.org/gems/plucky/versions/0.6.6
+watchurl=https://rubygems.org/gems/mongo/versions/([\d\.]*)
